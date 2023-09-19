@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "416571483233",
+    "firebase_url": "https://attend-d8027-default-rtdb.firebaseio.com",
+    "project_id": "attend-d8027",
+    "storage_bucket": "attend-d8027.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:416571483233:android:9e9af379be967fb78d3620",
+        "android_client_info": {
+          "package_name": "com.example.testing"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWS096pqjQCqKt9VO6xti_W6mQgbGFNYQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
